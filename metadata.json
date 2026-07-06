@@ -1,0 +1,6 @@
+{
+  "name": "Zai Store",
+  "description": "Marketplace digital MVP sederhana untuk top-up game dan produk digital terinspirasi dari Itemku dengan checkout WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
